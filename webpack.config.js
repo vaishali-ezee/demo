@@ -6,7 +6,7 @@ const path = require('path')
 
 module.exports = {
   entry: [
-    // __dirname + '/src/assets/style/yc-login.scss',
+    __dirname + '/src/assets/style/yc-login.scss',
     __dirname + '/src/main.js',
   ],
   output: {
